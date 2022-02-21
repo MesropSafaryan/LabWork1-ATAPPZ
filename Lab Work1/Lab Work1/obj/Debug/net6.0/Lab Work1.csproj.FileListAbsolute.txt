@@ -1,0 +1,15 @@
+D:\visual studio projects\Lab Work1\Lab Work1\bin\Debug\net6.0\Lab Work1.exe
+D:\visual studio projects\Lab Work1\Lab Work1\bin\Debug\net6.0\Lab Work1.deps.json
+D:\visual studio projects\Lab Work1\Lab Work1\bin\Debug\net6.0\Lab Work1.runtimeconfig.json
+D:\visual studio projects\Lab Work1\Lab Work1\bin\Debug\net6.0\Lab Work1.dll
+D:\visual studio projects\Lab Work1\Lab Work1\bin\Debug\net6.0\ref\Lab Work1.dll
+D:\visual studio projects\Lab Work1\Lab Work1\bin\Debug\net6.0\Lab Work1.pdb
+D:\visual studio projects\Lab Work1\Lab Work1\obj\Debug\net6.0\Lab Work1.csproj.AssemblyReference.cache
+D:\visual studio projects\Lab Work1\Lab Work1\obj\Debug\net6.0\Lab Work1.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio projects\Lab Work1\Lab Work1\obj\Debug\net6.0\Lab Work1.AssemblyInfoInputs.cache
+D:\visual studio projects\Lab Work1\Lab Work1\obj\Debug\net6.0\Lab Work1.AssemblyInfo.cs
+D:\visual studio projects\Lab Work1\Lab Work1\obj\Debug\net6.0\Lab Work1.csproj.CoreCompileInputs.cache
+D:\visual studio projects\Lab Work1\Lab Work1\obj\Debug\net6.0\Lab Work1.dll
+D:\visual studio projects\Lab Work1\Lab Work1\obj\Debug\net6.0\ref\Lab Work1.dll
+D:\visual studio projects\Lab Work1\Lab Work1\obj\Debug\net6.0\Lab Work1.pdb
+D:\visual studio projects\Lab Work1\Lab Work1\obj\Debug\net6.0\Lab Work1.genruntimeconfig.cache
